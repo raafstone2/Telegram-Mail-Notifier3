@@ -7,6 +7,8 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 
+CHANNEL_NAME = "کانال ۳ تلگرام - v2ray_dalghak"
+
 CHANNEL_URL = "https://t.me/s/v2ray_dalghak"
 
 LAST_FILE = "last_message.txt"
@@ -106,15 +108,18 @@ def send_email(message):
 
     msg["From"] = GMAIL_USER
     msg["To"] = GMAIL_TO
-    msg["Subject"] = "کانفیگ جدید V2Ray از تلگرام"
+    msg["Subject"] = f"کانفیگ جدید از {CHANNEL_NAME}"
 
 
-    body = """
-کانفیگ جدید پیدا شد:
+    body = f"""
+کانفیگ جدید از:
+
+{CHANNEL_NAME}
 
 ---------------------
 
-""" + message
+{message}
+"""
 
 
     msg.attach(
