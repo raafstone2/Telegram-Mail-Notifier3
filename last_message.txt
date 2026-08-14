@@ -1,23 +1,3 @@
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.4:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#
-
-vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#
-
-trojan://humanity@104.16.72.2:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#
-
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@172.67.191.52:2053?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&host=po.fastbrokencompony.com&fp=chrome&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.209.231:22224?encryption=none&security=none&type=tcp#
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.209.231:22223?encryption=none&security=none&type=tcp#
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.209.231:22222?encryption=none&security=none&type=tcp#
-
-trojan://dc0ebcb2-c103-466a-bd30-be492c477379@185.246.131.155:443?path=%2FBanV2ray---------BanV2ray----BanV2ray-----BanV2ray&security=none&host=play-fe.googleapis.com&type=ws#
-
-vless://b30d86e5-8b47-3716-f500-8e7c648162a6@x4g-production-d530.up.railway.app:443?path=%2Fws%2Fb30d86e5-8b47-3716-f500-8e7c648162a6&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-d530.up.railway.app&fp=android&type=ws&allowInsecure=0&sni=x4g-production-d530.up.railway.app#
-
 vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?path=%2F&security=&encryption=none&type=ws#
 
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg%3Fed&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#
@@ -309,3 +289,5 @@ vmess://eyJhZGQiOiAiNjUuMTA5LjE3OC4xMCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6
 vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%7D&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=%2Fy52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#
 
 vless://d67af820-f54c-48ab-862c-19086357f276@node5.get-tres.ru:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=e5f67890#
+
+vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#
