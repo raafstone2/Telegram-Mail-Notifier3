@@ -1,7 +1,3 @@
-vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#
-
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?security=none&encryption=none&host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#
-
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.163.59:80?security=none&type=ws&host=us3.rtacg.com&path=/#
 
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.85.128:80?security=none&type=ws&host=us3.rtacg.com&path=/#
@@ -273,3 +269,5 @@ vless://917154b1-1059-4431-b9f0-3acb7545b495@104.21.94.168:8080?Telegram=@V2RayT
 vless://67e85955-02b7-46f3-b3d6-ca34a4b0ccc1@172.67.182.46:443?security=tls&sni=hidden-rbpamewkcxqxrz3lct.hidden0612.ir&type=ws&host=hidden-rbpamewkcxqxrz3lct.hidden0612.ir&path=%2F&fp=chrome&alpn=h2,http/1.1#
 
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.239.195:80?security=none&type=ws&host=us3.rtacg.com&path=/#
+
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=chrome&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#
