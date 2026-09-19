@@ -1,23 +1,3 @@
-vless://8917c433-eb10-4546-871b-ef9880f7a17e@31.56.187.82:443?security=reality&encryption=none&pbk=FN-A-q17JHKav9ePOlPeQzdz16WkhFNMQVcWQ1AuPhU&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=timeline.www.cloudflare.com&sid=d1023e#
-
-vless://a68945bb-25cb-4852-abb9-386b0a31965e@31.56.184.226:8443?security=reality&encryption=none&pbk=caV3E6wBXTZAuyA8l75B4CJErsRhxZ67xpYWZTiHeRY&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=930342fdfbf2b239#
-
-vless://1e3d3634-36ac-43ac-a439-9665d885238f@206.206.76.75:443?security=reality&encryption=none&pbk=TqIFzUEEI1pIOR8BEpkNKEXcJ6cPfE5EzHb5joIivig&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=9930177816ab09da#
-
-vless://3cae22b7-69e7-4bf4-a2a3-b553bb56d89a@66.33.22.245:25409?encryption=none&host=&path=%2F&security=none&type=ws#
-
-vless://8fe8109d-6097-4f4b-9957-92d9b9b93b4c@usa4.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=qq&type=tcp&sni=play-apps-features.googleusercontent.com&sid=9ed2fa#
-
-trojan://wphetm3l4awlpn7y@202.133.90.105:1819?security=none&headerType=none&type=tcp#
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw@132.243.175.144:8388#
-
-vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@139.64.235.225:443?&security=tls&fp=chrome&sni=nb.lovecf.ggff.net&type=ws&headerType=none&host=nb.lovecf.ggff.net&path=%2Fproxyip%3Dus.xiabibi.cf#
-
-vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@84.32.101.85:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Q6vABOUn6Uxtp0uDsfDG-SRJFLBh_oOofD9reec4iSg&sid=cf41f778&sni=team.betust.net#
-
-vless://0ca2dfa0-c6fb-47d6-94de-1f35b95bbb0b@95.182.93.92:58582?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Atrue%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=zcIOzb_4k_qiXl_Q-7H77H2ZuA-hKerL-KZd_xFhtV0&security=reality&sid=b7fd7feac3da78&sni=goo.gl&spx=%2F557d6c321729295&type=xhttp&x_padding_bytes=100-1000#
-
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.246.110:9830?security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.176.34.52:22223?encryption=none&security=none&type=tcp#
@@ -355,3 +335,5 @@ vless://e3ec2866-96cd-4cc3-86c9-e7336ea2fbc2@147.45.71.23:443?mode=auto&path=%2F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.224.185.143:50099#
 
 vless://7090ada8-c275-4c7a-aa9a-5317398cb78f@de.vpnifty.ru:18443?security=reality&encryption=none&pbk=7cjXiyeAfM-T8WIAKKfqXtNn4Myv0Tm8N0OaXm2QAkU&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=de.vpnifty.ru#
+
+vless://efc88bbe-11ee-43af-93c4-db7faa7e03ee@fsp6jlzq.danqela.ir:27812?mode=auto&path=%2F&security=reality&encryption=none&pbk=iUiL4IUlpc_0c0AbhnIQqHzw9Uy3Fdmd2PUhlCngUyo&host=play.google.com&fp=edge&type=xhttp&sni=www.reuters.com&sid=e043f2d962b31f14#
