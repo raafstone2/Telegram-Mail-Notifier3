@@ -1,19 +1,3 @@
-vless://492b21fd-be60-4ad3-9866-e2945231a59a@146.75.59.186:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=netheri.global.ssl.fastly.net.&fp=ios&type=ws&allowInsecure=0&sni=firefox.com#
-
-vless://7285eb6f-6fef-4f15-9e74-da442d0f826a@46.182.24.240:443?security=reality&encryption=none&authority=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&pbk=Ed29G1bO6isJRo8iGPm7W_9c4mVFqHUilPmDP0llJW8&fp=qq&type=grpc&serviceName=grpc-32d2699be001e4f1&sni=max.ru#
-
-vless://492b21fd-be60-4ad3-9866-e2945231a59a@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=frenchji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.146.230:22223?encryption=none&security=none&type=tcp#
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.146.230:22222?encryption=none&security=none&type=tcp#
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.146.230:22224?encryption=none&security=none&type=tcp#
-
-vless://7cb53c5e-ea2a-df34-61ac-6dd986e01858@victoryprovpn-production-621a.up.railway.app:443?path=%2Fws%2F7cb53c5e-ea2a-df34-61ac-6dd986e01858&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=victoryprovpn-production-621a.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=victoryprovpn-production-621a.up.railway.app#
-
-vless://60d32a6a-4c9a-4032-b698-5b4dc07ad18b@NL.1.diginoisb.ir:8080?path=%2Falamslspakwnspapalnsbdlzalwndkspamsjlsd&security=tls&alpn=http%2F1.1&encryption=mlkem768x25519plus.native.0rtt.m3LIw9UPRiYGMPco5qNk5o8RVhH6pwvWAbmlAuz9RmY&insecure=0&host=panel.ir.www.vpxpp.ir&fp=chrome&ech=AGj%2BDQBkAAAgACDYlpaPRcKIDmVeQaWPyO%2FGL32AcEBUqdGeOE5Ezn2YPwAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADABVwYW5lbC5pci53d3cudnB4cHAuaXIAAA%3D%3D&type=ws&allowInsecure=0&sni=panel.ir.www.vpxpp.ir#
-
 vless://adacbe9f-e0cb-48dd-8a18-501667547afc@siderail-production-df88.up.railway.app:443?path=%2Fapi%2F7ukCI2&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=siderail-production-df88.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=siderail-production-df88.up.railway.app#
 
 trojan://yXBZB9vsZM1XMilT@siderail-production-df88.up.railway.app:443?path=%2Fapi%2F6nXvMY&security=tls&alpn=http%2F1.1&insecure=0&host=siderail-production-df88.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=siderail-production-df88.up.railway.app#
@@ -293,3 +277,5 @@ vless://30ed2f7b-35c1-49ca-8d9f-687983382360@199.232.78.160:443?mode=auto&pcs=cd
 vless://a346c521-7a7f-452b-9356-a4893feb5982@66.151.40.60:8444?mode=gun&security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&type=grpc&serviceName=GunService&sni=github.com#
 
 vless://22136b20-6365-4ae6-b21a-799a00ab1346@ss3.soreanapanel.com:8080?security=reality&encryption=none&pbk=t_z1GMEv2FYr0Bo57WBuKRRlkyOMj40025j-OcWCtkU&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&spx=%2F929574c99a2f206&type=tcp&sni=graphs.4cdn.de&sid=8d542c72c84f#
+
+vless://5db16cc8-23be-4b09-ade8-38b847a3c9cb@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=italyma.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#
